@@ -1,0 +1,6 @@
+program test {
+    var n: int = 1;
+    var m: int = 2;
+    var m: int = 2.5e-3;
+    print(n + m);
+}
